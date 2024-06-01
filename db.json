@@ -1,9 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "produtos": [
+        {
+            "tipo": "Navalha",
+            "codigo": 12,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Água oxigenada volume 30",
+            "codigo": 13,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Shampoo",
+            "codigo": 14,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Pó descolorante",
+            "codigo": 18,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Tinta Preto p/ cabelo",
+            "codigo": 17,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Tinta Azul p/ cabelo",
+            "codigo": 16,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Tinta Rosa p/ cabelo",
+            "codigo": 15,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Água oxigenada volume 40",
+            "codigo": 11,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Condicionador",
+            "codigo": 19,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Gel fixador",
+            "codigo": 20,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Creme de pentear",
+            "codigo": 21,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Gola higienica",
+            "codigo": 22,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Pentes",
+            "codigo": 23,
+            "quantidade": 0 
+        }
+    ]
 }
