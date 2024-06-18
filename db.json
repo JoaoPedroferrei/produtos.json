@@ -65,5 +65,22 @@
             "codigo": 23,
             "quantidade": 0 
         }
-    ]
+    ],
+"administradores": [
+      {
+          "nome": "joao pedro",
+          "email": "joaopedroferrereira1155@gmail.coom",
+          "senha": "joaopedro123"
+      },
+      {
+          "nome": "washington",
+          "email": "washington_jlp@hotmail.com",
+          "senha": "washington123"   
+      },
+      {
+          "nome": "nathan rocha",
+          "email": "",
+          "senha": "nathan123"
+      }
+  ]
 }
