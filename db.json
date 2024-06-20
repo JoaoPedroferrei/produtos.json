@@ -2,87 +2,87 @@
     "produtos": [
         {
             "tipo": "Navalha",
-            "codigo": 0010,
+            "codigo": 110,
             "quantidade": 0 
         },
         {
             "tipo": "Água oxigenada volume 30",
-            "codigo": 0011,
+            "codigo": 111,
             "quantidade": 0 
         },
         {
             "tipo": "Água oxigenada volume 40",
-            "codigo": 0012,
+            "codigo": 112,
             "quantidade": 0 
         },
         {
             "tipo": "Condicionador",
-            "codigo": 0013,
+            "codigo": 113,
             "quantidade": 0 
         },
         {
             "tipo": "Shampoo",
-            "codigo": 0014,
+            "codigo": 114,
             "quantidade": 0 
         },
         {
             "tipo": "Tinta Preto p/ cabelo",
-            "codigo": 0015,
+            "codigo": 115,
             "quantidade": 0 
         },
         {
             "tipo": "Tinta Azul p/ cabelo",
-            "codigo": 0016,
+            "codigo": 116,
             "quantidade": 0 
         },
         {
             "tipo": "Tinta Rosa p/ cabelo",
-            "codigo": 0015,
+            "codigo": 115,
             "quantidade": 0 
         },
         {
             "tipo": "Pó descolorante",
-            "codigo": 0016,
+            "codigo": 116,
             "quantidade": 0 
         },
         {
             "tipo": "Gel fixador",
-            "codigo": 0017,
+            "codigo": 117,
             "quantidade": 0 
         },
         {
             "tipo": "Creme de pentear",
-            "codigo": 0018,
+            "codigo": 118,
             "quantidade": 0 
         },
         {
             "tipo": "Gola higienica",
-            "codigo": 0019,
+            "codigo": 119,
             "quantidade": 0 
         },
          {
             "tipo": "Capa de proteção",
-            "codigo": 0020,
+            "codigo": 120,
             "quantidade": 0 
         },
         {
             "tipo": "Pentes",
-            "codigo": 0021,
+            "codigo": 121,
             "quantidade": 0 
         },
          {
             "tipo": "Maquinas de corte",
-            "codigo": 0021,
+            "codigo": 121,
             "quantidade": 4 
         },
          {
             "tipo": "Tesouras",
-            "codigo": 0022,
+            "codigo": 122,
             "quantidade": 8 
         },
          {
             "tipo": "Maquinas de acabamento",
-            "codigo": 0023,
+            "codigo": 123,
             "quantidade": 4 
         }
     ],
