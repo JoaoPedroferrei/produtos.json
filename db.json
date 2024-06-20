@@ -2,68 +2,88 @@
     "produtos": [
         {
             "tipo": "Navalha",
-            "codigo": 12,
+            "codigo": 0010,
             "quantidade": 0 
         },
         {
             "tipo": "Água oxigenada volume 30",
-            "codigo": 13,
-            "quantidade": 0 
-        },
-        {
-            "tipo": "Shampoo",
-            "codigo": 14,
-            "quantidade": 0 
-        },
-        {
-            "tipo": "Pó descolorante",
-            "codigo": 18,
-            "quantidade": 0 
-        },
-        {
-            "tipo": "Tinta Preto p/ cabelo",
-            "codigo": 17,
-            "quantidade": 0 
-        },
-        {
-            "tipo": "Tinta Azul p/ cabelo",
-            "codigo": 16,
-            "quantidade": 0 
-        },
-        {
-            "tipo": "Tinta Rosa p/ cabelo",
-            "codigo": 15,
+            "codigo": 0011,
             "quantidade": 0 
         },
         {
             "tipo": "Água oxigenada volume 40",
-            "codigo": 11,
+            "codigo": 0012,
             "quantidade": 0 
         },
         {
             "tipo": "Condicionador",
-            "codigo": 19,
+            "codigo": 0013,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Shampoo",
+            "codigo": 0014,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Tinta Preto p/ cabelo",
+            "codigo": 0015,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Tinta Azul p/ cabelo",
+            "codigo": 0016,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Tinta Rosa p/ cabelo",
+            "codigo": 0015,
+            "quantidade": 0 
+        },
+        {
+            "tipo": "Pó descolorante",
+            "codigo": 0016,
             "quantidade": 0 
         },
         {
             "tipo": "Gel fixador",
-            "codigo": 20,
+            "codigo": 0017,
             "quantidade": 0 
         },
         {
             "tipo": "Creme de pentear",
-            "codigo": 21,
+            "codigo": 0018,
             "quantidade": 0 
         },
         {
             "tipo": "Gola higienica",
-            "codigo": 22,
+            "codigo": 0019,
+            "quantidade": 0 
+        },
+         {
+            "tipo": "Capa de proteção",
+            "codigo": 0020,
             "quantidade": 0 
         },
         {
             "tipo": "Pentes",
-            "codigo": 23,
+            "codigo": 0021,
             "quantidade": 0 
+        },
+         {
+            "tipo": "Maquinas de corte",
+            "codigo": 0021,
+            "quantidade": 4 
+        },
+         {
+            "tipo": "Tesouras",
+            "codigo": 0022,
+            "quantidade": 8 
+        },
+         {
+            "tipo": "Maquinas de acabamento",
+            "codigo": 0023,
+            "quantidade": 4 
         }
     ],
 "administradores": [
